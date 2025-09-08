@@ -1,0 +1,14 @@
+{
+  "name": "68fk-bot",
+  "version": "1.0.0",
+  "description": "Bedrock AFK bot that stays online 24/7 with auto-reconnect + heartbeat.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bedrock-protocol": "^3.55.0",
+    "dotenv": "^16.4.5"
+  }
+}
